@@ -1,0 +1,1 @@
+this.image = loadImage("dustbingreen.png")
